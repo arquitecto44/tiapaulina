@@ -527,7 +527,7 @@ const mensaje = encodeURIComponent(
 );
 
 modalWhatsapp.href =
-`https://wa.me/51931023515?text=${mensaje}`;
+`https://wa.me/51937392556?text=${mensaje}`;
 
 productModal.style.display = "flex";
 
@@ -629,7 +629,7 @@ attachProductEvents();
 
 Ejemplo futuro:
 
-https://wa.me/51931023515?text=
+https://wa.me/51937392556?text=
 Hola%20quiero%20el%20Premium%2001
 
 Cada producto podrá enviar
